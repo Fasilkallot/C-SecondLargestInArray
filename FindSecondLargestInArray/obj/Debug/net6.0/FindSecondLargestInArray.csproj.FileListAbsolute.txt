@@ -1,0 +1,15 @@
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\bin\Debug\net6.0\FindSecondLargestInArray.exe
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\bin\Debug\net6.0\FindSecondLargestInArray.deps.json
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\bin\Debug\net6.0\FindSecondLargestInArray.runtimeconfig.json
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\bin\Debug\net6.0\FindSecondLargestInArray.dll
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\bin\Debug\net6.0\FindSecondLargestInArray.pdb
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\FindSecondLargestInArray.csproj.AssemblyReference.cache
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\FindSecondLargestInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\FindSecondLargestInArray.AssemblyInfoInputs.cache
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\FindSecondLargestInArray.AssemblyInfo.cs
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\FindSecondLargestInArray.csproj.CoreCompileInputs.cache
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\FindSecondLargestInArray.dll
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\refint\FindSecondLargestInArray.dll
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\FindSecondLargestInArray.pdb
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\FindSecondLargestInArray.genruntimeconfig.cache
+C:\Users\fasil\Documents\VSF\FindSecondLargestInArray\FindSecondLargestInArray\obj\Debug\net6.0\ref\FindSecondLargestInArray.dll
